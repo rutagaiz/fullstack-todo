@@ -1,7 +1,6 @@
 package org.example.fullstacktodo.Controller;
 
 import jakarta.validation.Valid;
-import org.example.fullstacktodo.DAO.ToDoRepository;
 import org.example.fullstacktodo.DTO.TaskDTO;
 import org.example.fullstacktodo.Model.Task;
 import org.example.fullstacktodo.Service.TaskService;
